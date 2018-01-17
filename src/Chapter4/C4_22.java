@@ -8,7 +8,6 @@ import java.util.Scanner;
  * @author Peyton Annett
  */
 //4.22 substrings
-
 public class C4_22 {
 
     /**

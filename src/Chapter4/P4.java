@@ -8,7 +8,6 @@ import java.util.Scanner;
  * @author Peyton Annett
  */
 //Peyton Annett
-
 public class P4 {
 
     /**

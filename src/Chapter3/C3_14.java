@@ -9,7 +9,6 @@ import java.util.Random;
  *
  * @author Peyton Annett
  */
-
 public class C3_14 {
 
     /**

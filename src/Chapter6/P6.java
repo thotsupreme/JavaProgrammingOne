@@ -61,12 +61,14 @@ public class P6 {
         }
 
     }
-/**
- * 
- * @param c1 conversion
- * @param d1 dollars to be converted
- * @return converted currency
- */
+
+    /**
+     * Method to convert and take out fee
+     *
+     * @param c1 conversion
+     * @param d1 dollars to be converted
+     * @return converted currency
+     */
     public static double convert(double c1, double d1) {
         double dFin = 0;
         if (d1 > 100) {
