@@ -61,12 +61,12 @@ public class P6 {
         }
 
     }
-
-    /**
-     * Convert
-     *
-     * @param double c1, d1
-     */
+/**
+ * 
+ * @param c1
+ * @param d1
+ * @return converted currency
+ */
     public static double convert(double c1, double d1) {
         double dFin = 0;
         if (d1 > 100) {
