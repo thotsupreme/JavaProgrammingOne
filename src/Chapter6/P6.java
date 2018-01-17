@@ -63,8 +63,8 @@ public class P6 {
     }
 /**
  * 
- * @param c1
- * @param d1
+ * @param c1 conversion
+ * @param d1 dollars to be converted
  * @return converted currency
  */
     public static double convert(double c1, double d1) {
