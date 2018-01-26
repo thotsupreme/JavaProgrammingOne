@@ -1,6 +1,7 @@
-
 //Peyton Annett
 //7.26 strictly identical lists
+package Chapter7;
+
 import java.util.Scanner;
 
 /**

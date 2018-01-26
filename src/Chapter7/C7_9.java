@@ -1,5 +1,6 @@
 //Peyton Annett
 //7.9 find the smallest element
+package Chapter7;
 
 import java.util.Scanner;
 
@@ -25,11 +26,14 @@ public class C7_9 {
         }
         System.out.print("The minimum number is: " + min(ten));
     }
-/**
- *  Method to find min
- * @param array
- * @return the smallest element
- */
+
+    /**
+     * Method to find min
+     *
+     * @param array the array of inputs
+     *
+     * @return the smallest element
+     */
     public static double min(double[] array) {
 
         double min = array[0];

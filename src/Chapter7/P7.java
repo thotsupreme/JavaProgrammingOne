@@ -1,5 +1,6 @@
-
 //Peyton Annett
+package Chapter7;
+
 import java.util.Scanner;
 
 /**

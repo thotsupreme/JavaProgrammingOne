@@ -1,6 +1,7 @@
-
 //Peyton Annett
 //7.1 assign grades
+package Chapter7;
+
 import java.util.Scanner;
 
 /**
