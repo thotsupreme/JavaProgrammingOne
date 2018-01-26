@@ -25,7 +25,11 @@ public class C7_9 {
         }
         System.out.print("The minimum number is: " + min(ten));
     }
-
+/**
+ *  Method to find min
+ * @param array
+ * @return the smallest element
+ */
     public static double min(double[] array) {
 
         double min = array[0];
